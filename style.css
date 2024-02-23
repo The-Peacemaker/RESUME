@@ -14,11 +14,13 @@ h1 {
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
+    font-family: 'Geneva';
 }
 
 h3 {
     font-size: 1em;
     padding-bottom: 1em;
+    font-family: 'Tahoma';
 }
 
 main { 
